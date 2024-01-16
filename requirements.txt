@@ -1,0 +1,3 @@
+discord_markdown_ast_parser
+discord.py
+python-dotenv
