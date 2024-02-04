@@ -1,6 +1,6 @@
 # Discord bot 
 
-This is a Discord bot for fixes X/Twitter embeds by using [FixTweet](https://github.com/FixTweet/FxTwitter) service. Also have some basic commands for fun.
+This is a Discord bot for fixes X/Twitter embeds by using [FixTweet](https://github.com/FixTweet/FxTwitter) service. Also have some basic commands for fun, such as roll a dice, deciding what to have for lunch, and other more still in planing phase.
 
 
 ## Useage
